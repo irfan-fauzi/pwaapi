@@ -1,0 +1,23 @@
+{
+"products": [
+{"id":1,"first_name":"Rattlesnake, horned","category":"Maroon"},
+{"id":2,"first_name":"Robin, white-throated","category":"Green"},
+{"id":3,"first_name":"Groundhog","category":"Yellow"},
+{"id":4,"first_name":"Kangaroo, jungle","category":"Purple"},
+{"id":5,"first_name":"Red howler monkey","category":"Yellow"},
+{"id":6,"first_name":"Kinkajou","category":"Blue"},
+{"id":7,"first_name":"Duck, mountain","category":"Pink"},
+{"id":8,"first_name":"Booby, blue-faced","category":"Fuscia"},
+{"id":9,"first_name":"Dik, kirk's dik","category":"Aquamarine"},
+{"id":10,"first_name":"American woodcock","category":"Goldenrod"},
+{"id":11,"first_name":"Gila monster","category":"Aquamarine"},
+{"id":12,"first_name":"Pelican, australian","category":"Indigo"},
+{"id":13,"first_name":"Blue-tongued lizard","category":"Mauv"},
+{"id":14,"first_name":"Black-footed ferret","category":"Violet"},
+{"id":15,"first_name":"Pied cormorant","category":"Goldenrod"},
+{"id":16,"first_name":"Grey lourie","category":"Indigo"},
+{"id":17,"first_name":"Kingfisher, malachite","category":"Indigo"},
+{"id":18,"first_name":"Peacock, blue","category":"Puce"},
+{"id":19,"first_name":"Mallard","category":"Aquamarine"},
+{"id":20,"first_name":"Wild turkey","category":"Aquamarine"}]
+}
